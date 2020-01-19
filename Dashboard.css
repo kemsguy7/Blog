@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background: #f4f4f4;
+    margin:0;
+    padding:0;
+    font-size:20px;
+}
+
+.navbar{
+    min-height: 33px !important;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.navbar-nav > li >a .navbar-brand{
+    padding-top: 6px !important;
+    padding-bottom: 0 !important;
+    height: 33px;
+}
+
+.navbar-default {
+    background-color:#8ee4af;
+    border-color: #c0392b;
+}
+
+    
+.navbar-default .navbar-brand {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-brand-hover,
+.navbar-default .navbar-brand:focus {
+color: #effbbc;
+}
+.navbar-default .navbar-text {
+color: #ecf0f1;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav >  .active > a:focus {
+    color:white;
+    background-color: gray;
+}
+ 
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-link {
+    color: #ecf0f1;
+}
+.navbar-default .navbar-link:hover {
+    color: #ffbbbc;
+}
+.nav2 li a{
+    text-decoration: none;
+    padding: 10px;
+
+   }
+   .nav-item2 li .a {
+       padding-right:5px;
+}
+   .header {
+      background: #333333;
+       color: #ffffff;
+       position:relative;;
+       margin-top:50px;
+       padding-top:15px;
+   }
+   .dash-box {
+       text-align: center;
+   }
+   .active{
+       background-color:lightgreen;
+   }
+   #footer{
+       background-color:  burlywood;
+
+   }
+   #footer .center-text{
+       text-align: center;
+   }
